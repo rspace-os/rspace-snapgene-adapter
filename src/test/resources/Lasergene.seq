@@ -1,0 +1,6 @@
+LOCUS       LAsergene                101 bp    DNA     linear       23-JAN-2020
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /dnas_title="LAsergene"
+^^
+actgatgctgatctgatgctagtcgtagggggttttaatgtgtcgtagtcgtagctagtcgatgctagctagtcatcgtagctagctgatcgatgctagct

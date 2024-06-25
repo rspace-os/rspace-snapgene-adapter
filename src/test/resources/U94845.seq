@@ -1,0 +1,43 @@
+LOCUS       U94845                   153 bp    mRNA    linear   EST 13-JUL-1998
+DEFINITION  U94845 Mouse blastocyst differential display product/primer
+            TACAACGAGG Mus musculus cDNA clone BL-ETOH 06, mRNA sequence.
+ACCESSION   U94845
+VERSION     U94845.1
+DBLINK      BioSample: SAMN00155670
+KEYWORDS    EST.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 153)
+  AUTHORS   Rout,U.K., Krawetz,S.A. and Armant,D.R.
+  TITLE     Ethanol-induced intracellular calcium mobilization rapidly alters
+            gene expression in the mouse blastocyst
+  JOURNAL   Cell Calcium 22 (6), 463-474 (1997)
+   PUBMED   9502196
+COMMENT     Contact: Rout, Ujjwal
+            Ob/Gyn
+            Mott Center for Human Growth and Development, Wayne State
+            University School of Medicine
+            275 East Hancock, Detriot, MI 48201, USA
+            Tel: 313 577 1749
+            Fax: 313 577 8554
+            Email: urout@med.wayne.edu
+            3'UTR; development; calcium; signal transduction.
+FEATURES             Location/Qualifiers
+     source          1..153
+                     /dnas_title="U94845"
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10090"
+                     /clone="BL-ETOH 06"
+                     /clone_lib="SAMN00155670 Mouse blastocyst differential
+                     display product/primer TACAACGAGG"
+                     /dev_stage="blastocyst"
+                     /note="Vector: pCR II vector (Invitrogen); Differential
+                     display product obtained by using anchored oligo dT
+                     primer: deoxyTTTTTTTTTTTTVC (V: Equimolar mixture of dA,
+                     dC and dG) and an arbitrary primer: 5'TACAACGAGG3'"
+^^
+cacagtacaatgaaacagggagacagcacaatctattggagtaagaaacagccctaaatttagtctctgtcctgggtcttcatctatcagctctgtctacaaaggcaatagtaaatgttgtttgtaactcttttctaggaaaaaaaaaaaaaa

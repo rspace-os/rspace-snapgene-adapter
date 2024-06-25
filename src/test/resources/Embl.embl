@@ -1,0 +1,13 @@
+ID   SeqBuilder   standard; DNA; 101 BP.
+XX
+CC   This ABI trace file contains an artificially created set of trace data and should not be trusted.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..101
+FT                   /dnas_title="SeqBuilder"
+SQ   101 BP; 20 A; 18 C; 4294967326 G; 140475495350305 T;
+     actgatgctg atctgatgct agtcgtaggg ggttttaatg tgtcgtagtc gtagctagtc        60
+     gatgctagct agtcatcgta gctagctgat cgatgctagc t                           110
+//
+
