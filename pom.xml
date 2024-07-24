@@ -4,7 +4,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>rspace-snapgene-adapter</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <parent>
     <artifactId>rspace-parent</artifactId>
@@ -12,19 +12,18 @@
     <version>2.0.1</version>
   </parent>
 
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-toolchains-plugin</artifactId>
-      </plugin>
-    </plugins>
-  </build>
+  <repositories>
+    <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+    </repository>
+  </repositories>
+
   <dependencies>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>rspace-core-util</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
@@ -34,7 +33,7 @@
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>rest-api-utils</artifactId>
-      <version>1.2.0</version>
+      <version>1.3.2</version>
     </dependency>
 
     <dependency>
