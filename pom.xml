@@ -32,7 +32,7 @@
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
-      <artifactId>rest-api-utils</artifactId>
+      <artifactId>rspace-rest-api-utils</artifactId>
       <version>1.3.2</version>
     </dependency>
 
