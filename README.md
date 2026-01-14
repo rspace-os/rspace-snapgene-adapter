@@ -1,6 +1,6 @@
 # RSpace Snapgene Adapter
 
-This is Java RESTclient for accessing the Snapgene webservice by RSpace.
+This is Java REST client for accessing the Snapgene webservice by RSpace.
 Depends on code published in rspace-os/snapgene-java-client.
 
 ## Tests
