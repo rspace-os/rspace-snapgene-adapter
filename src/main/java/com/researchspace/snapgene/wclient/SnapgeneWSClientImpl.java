@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.net.URI;
 import java.util.function.Supplier;
 
-import javax.annotation.PostConstruct;
+import jakarta.annotation.PostConstruct;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.FilenameUtils;
